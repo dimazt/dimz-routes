@@ -29,7 +29,7 @@ Pastikan Anda memiliki Node.js dan npm terinstal di sistem Anda.
        |   |  |-- config.js
    ```
 
-4. File ` package.json`` akan muncul  `"route:list": "node ./src/commands/route-list.js"```
+4. File `package.json` akan muncul  `"route:list": "node ./src/commands/route-list.js"`
 
 ## Penggunaan
 
