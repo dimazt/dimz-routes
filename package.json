@@ -1,0 +1,15 @@
+{
+  "name": "dimz-routes-beta",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./install.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimas Bayu Sampurno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
